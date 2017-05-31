@@ -1,0 +1,8 @@
+.DS_Store
+.vagrant
+*.log
+key.txt
+node_modules
+*.md
+*.spec.js
+package.json
